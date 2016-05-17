@@ -1,0 +1,121 @@
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\TestniCMS2.dll.config
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\TestniCMS2.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\TestniCMS2.pdb
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Antlr3.Runtime.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\EntityFramework.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\EntityFramework.SqlServer.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Newtonsoft.Json.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Owin.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Net.Http.Formatting.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Helpers.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Http.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Http.WebHost.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Mvc.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Optimization.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Razor.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.Razor.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\WebGrease.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Net.Http.Formatting.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Http.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Http.WebHost.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Helpers.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Mvc.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Optimization.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.Razor.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.Razor.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Antlr3.Runtime.pdb
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Newtonsoft.Json.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\EntityFramework.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\EntityFramework.SqlServer.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\obj\Debug\TestniCMS2.dll
+C:\Users\z.vulevic\documents\visual studio 2013\Projects\TestniCMS2\TestniCMS2\obj\Debug\TestniCMS2.pdb
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\TestniCMS2.dll.config
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\TestniCMS2.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\TestniCMS2.pdb
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Antlr3.Runtime.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\EntityFramework.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\EntityFramework.SqlServer.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Google.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Web.Infrastructure.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Newtonsoft.Json.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Owin.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Net.Http.Formatting.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Helpers.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Http.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Http.WebHost.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Mvc.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Optimization.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Razor.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.Deployment.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.Razor.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\WebGrease.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Net.Http.Formatting.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Http.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Http.WebHost.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Helpers.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Mvc.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Optimization.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.Razor.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.Deployment.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\System.Web.WebPages.Razor.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Antlr3.Runtime.pdb
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Newtonsoft.Json.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\EntityFramework.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\EntityFramework.SqlServer.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Google.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\obj\Debug\TestniCMS2.csprojResolveAssemblyReference.cache
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\obj\Debug\TestniCMS2.dll
+D:\REPO_GitKraken\TestMVC\TestniCMS2\TestniCMS2\obj\Debug\TestniCMS2.pdb

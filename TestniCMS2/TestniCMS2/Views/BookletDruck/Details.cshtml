@@ -1,0 +1,82 @@
+﻿@model IEnumerable<TestniCMS2.Models.Bookletdruck>
+        
+    @{
+        ViewBag.Title = "Details";
+    }
+
+    <h2>Details</h2>
+
+    <div>
+        <h4>Bookletdruck</h4>
+        <hr />
+        <table class="table">
+            <tr>
+                <th>
+                    PDF
+                </th>
+                <th>
+                    Vorgang
+                </th>
+                <th>
+                    Booklet
+                </th>
+                <th>
+                    Prod.-lauf
+                </th>
+                <th>
+                    Abreise
+                </th>
+                <th>
+                    eMail
+                </th>
+                <th>
+                    Teilnehmer
+                </th>
+                <th>
+                    Verarbeitet am
+                </th>
+                <th>
+                    Versandt am
+                </th>
+                <th></th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PDFPath)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Buchungsnummer)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BookletID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LaufID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Reisebeginn)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MessageTo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PassengerList)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreatedOn)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SentOn)
+                    </td>
+                </tr>
+            }
+        </table>
+
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { /* id = item.PrimaryKey */ }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
